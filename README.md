@@ -1,2 +1,2 @@
 # image-processing-assignments
-Matlab implementation of FUNDAMENTAL IMAGE PROCESSING TECHNIQUES (CNG466) Assignments
+Matlab implementation of Fundamental Image Processing Techniques (CNG466) course assignments at METU NCC
